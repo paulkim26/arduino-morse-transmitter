@@ -12,4 +12,4 @@ An Arduino sketch to transmit a message in Morse code via a blinking LED. Upon c
 | `message` | The string of characters to transmit. |
 
 ## Setup & Run
-Upload the sketch to an Arduino and run to see the Morse code message played back.
+Upload the sketch to an Arduino Uno (or similar unit) and run to see the Morse code message played back.
